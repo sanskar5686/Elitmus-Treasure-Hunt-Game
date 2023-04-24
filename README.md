@@ -5,9 +5,9 @@ It is game developed by KUMAR SANSKAR. It has 5 question and has solution to eac
 
 This will be the first page when you will open the fire-base and I have shown in arrow there you have to click for login.
 
-For admin I have already created the registration form and it will be logged in--
-Username/Email- ADMIN,
-PassWord - 12345 
+For admin,I have already created the registration form and it will be logged in--
+Username/Email- "ADMIN",
+Password - "12345".
 After succesful entering into the webpage , you can play the game. 
 
 AIM: The main aim of this game is to check the soft-skill of the user and find whether they can crack the puzzle or not.
